@@ -2,7 +2,7 @@
 
 **Author:** Archie P. H. Sinaga · [GitHub](https://github.com/archiesinaga)
 **Repo:** https://github.com/archiesinaga/credit-risk-model
-**Live demo:** _(add the Streamlit link here after deployment)_
+**Live demo:** _(https://credit-risk-archie.streamlit.app)_
 
 > **Data note:** this project uses the public Kaggle dataset *Give Me Some Credit*. The data is real but anonymized and comes from another country. It is **not** Indonesian bank data. Banks do not publish loan-level data, so the method transfers to a bank's own portfolio, the data does not.
 
