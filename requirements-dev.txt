@@ -1,0 +1,7 @@
+-r requirements.txt
+shap==0.53.0
+matplotlib==3.11.2
+seaborn
+imbalanced-learn
+jupyter
+ipykernel

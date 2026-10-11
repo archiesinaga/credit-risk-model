@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+# Data mentah dan hasil split tidak di-commit (link ke Kaggle di README)
+data/raw/
+data/clean/
